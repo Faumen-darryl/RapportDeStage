@@ -1,0 +1,5 @@
+cette ligne a été modifier pour créer du conflit de fsdion.
+
+fichier se trouvant sur master 
+Il a été créé pour prouver que pour le moment ce que le master possède
+les autres branches créées précédement ne l'ont pas !!!
